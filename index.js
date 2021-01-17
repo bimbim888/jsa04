@@ -28,3 +28,4 @@ for(var b = 0; b < 24; b++) {
 var answer = null
 answer = storage * 100000;
 console.log(answer);
+// e lm theo bài huy đấy
